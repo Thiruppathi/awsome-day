@@ -36,6 +36,13 @@
   - Spot Price based on supply/demand determined automatically
   - Spot price above bid, instance terminate
 
+### Auto Scaling
+- Scale EC2 Capacity automatically
+- suited for application that experience variability in usage
+
+### Cloud Watch
+- CPU Usage, LAtency and other maetrics are monitored by this.
+
 
 ## TO DO
 - Create AWS account
