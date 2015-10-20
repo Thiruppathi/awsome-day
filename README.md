@@ -51,3 +51,5 @@
   - Use Pricing Calculator online.
 - DDoS Attack - Anony - 4Chan - ??
 - DNS Resolver
+- Aurora DB
+- Check Self paced labs
